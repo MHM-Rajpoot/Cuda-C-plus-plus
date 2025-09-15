@@ -2,6 +2,8 @@
 
 A comprehensive reference for core linear algebra concepts used in Artificial Intelligence and Machine Learning.
 
+![](books/cuda-x-libraries.svg)
+
 ---
 
 ## 1. Scalars, Vectors, Matrices, and Tensors
