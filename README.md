@@ -1,4 +1,4 @@
-# Linear Algebra Concepts for AI using [CUDA ToolKit](https://docs.nvidia.com/cuda/doc/index.html#cuda-toolkit-documentation)
+# Linear Algebra Concepts for AI using [CUDA ToolKit](https://docs.nvidia.com/cuda/doc/index.html#cuda-toolkit-documentation) | [Download](https://developer.nvidia.com/downloads)
 
 A comprehensive reference for core linear algebra concepts used in Artificial Intelligence and Machine Learning.
 
