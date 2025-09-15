@@ -51,7 +51,7 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
 - **Manhattan Distance (L1)**:  
   $$\|x - y\|_1 = \sum_i |x_i - y_i|$$  
 - **Cosine Similarity**:
-  $\text{Cosine Similarity}$ = $\frac{x \cdot y}{\|x\|_{2} \|y\|_{2}}$
+  $$\frac{x \cdot y}{\|x\|_{2} \|y\|_{2}}$$
 
 ---
 
