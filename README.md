@@ -114,4 +114,9 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
 - **Manhattan Distance (L1)**:  
   $$\|x - y\|_1 = \sum_i |x_i - y_i|$$  
 - **Cosine Similarity** → crucial for NLP embeddings:  
-  $$\text{cosine\_sim}(x, y) = \frac{x \cdot y}{\|x\|_2 \|y\|_2}$$  
+  $$\text{cosine\_sim}(x, y) = \frac{x \cdot y}{\|x\|_2 \|y\|_2}$$
+
+
+### References
+
+- Book: **Discrete Mathematics and Its Applications (7th Edition)** – [`./books/Discrete_Mathematics_and_Its_Applications_(7th_Edition).pdf`](./books/Discrete_Mathematics_and_Its_Applications_(7th_Edition).pdf)  
