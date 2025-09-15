@@ -44,7 +44,18 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
 
 ---
 
-## 4. Systems of Linear Equations
+## 4. Norms & Distance Measures
+
+- **Euclidean Distance (L2)**:  
+  $$\|x - y\|_2 = \sqrt{\sum_i (x_i - y_i)^2}$$  
+- **Manhattan Distance (L1)**:  
+  $$\|x - y\|_1 = \sum_i |x_i - y_i|$$  
+- **Cosine Similarity**:
+  $\text{Cosine Similarity}$ = $\frac{x \cdot y}{\|x\|_{2} \|y\|_{2}}$$
+
+---
+
+## 5. Systems of Linear Equations
 
 - Represented as:  
   $$Ax = b$$  
@@ -53,14 +64,14 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
 
 ---
 
-## 5. Linear Transformations
+## 6. Linear Transformations
 
 - Matrix as a transformation (e.g., rotation, scaling, projection)  
 - Crucial for understanding how data moves through neural networks  
 
 ---
 
-## 6. Eigenvalues and Eigenvectors
+## 7. Eigenvalues and Eigenvectors
 
 - $$Av = \lambda v$$  
 - **Eigenvectors** = directions of variance  
@@ -69,7 +80,7 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
 
 ---
 
-## 7. Matrix Decompositions
+## 8. Matrix Decompositions
 
 - **LU Decomposition** → efficient solving of linear systems  
 - **QR Decomposition** → orthogonality  
@@ -77,7 +88,7 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
 
 ---
 
-## 8. Orthogonality & Projections
+## 9. Orthogonality & Projections
 
 - **Orthogonal vectors** → dot product = 0:  
   $$\mathbf{u} \cdot \mathbf{v} = 0$$  
@@ -88,7 +99,7 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
 
 ---
 
-## 9. Vector Spaces & Subspaces
+## 10. Vector Spaces & Subspaces
 
 - **Span, Basis, Rank, Null space**  
 - **Rank** = number of independent features:  
@@ -98,23 +109,12 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
 
 ---
 
-## 10. Special Matrices
+## 11. Special Matrices
 
 - **Diagonal** → simple scaling  
 - **Symmetric** → real eigenvalues  
 - **Orthogonal** → preserves length & angle  
 - **Sparse** → many zeros, used in NLP  
-
----
-
-## 11. Norms & Distance Measures
-
-- **Euclidean Distance (L2)**:  
-  $$\|x - y\|_2 = \sqrt{\sum_i (x_i - y_i)^2}$$  
-- **Manhattan Distance (L1)**:  
-  $$\|x - y\|_1 = \sum_i |x_i - y_i|$$  
-- **Cosine Similarity**:
-  $$\text{Cosine Similarity} = \frac{x \cdot y}{\|x\|_{2} \|y\|_{2}}$$
 
 
 ### References
