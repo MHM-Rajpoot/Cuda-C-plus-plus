@@ -110,11 +110,11 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
 ## 11. Norms & Distance Measures
 
 - **Euclidean Distance (L2)**:  
-  $$\|x - y\|_2 = \sqrt{\sum_i (xi - yi)^2}$$  
+  $$\|x - y\|_2 = \sqrt{\sum_i (x_i - y_i)^2}$$  
 - **Manhattan Distance (L1)**:  
-  $$\|x - y\|_1 = \sum_i |x_i - yi|$$  
+  $$\|x - y\|_1 = \sum_i |x_i - y_i|$$  
 - **Cosine Similarity** → crucial for NLP embeddings:  
-  $$\text{cosine\_sim}(x, y) = \frac{x \cdot y}{\|x\|_2 \|y\|_2}$$
+  $$\text{cosine\_sim}(x, y) = \frac{x \cdot y}{\|x\| 2 \|y\| 2}$$
 
 
 ### References
