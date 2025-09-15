@@ -113,7 +113,7 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
   $$\|x - y\|_2 = \sqrt{\sum_i (x_i - y_i)^2}$$  
 - **Manhattan Distance (L1)**:  
   $$\|x - y\|_1 = \sum_i |x_i - y_i|$$  
-- **Cosine Similarity**:  
+- **Cosine Similarity**:
   $$\text{cosine similarity} = \frac{x \cdot y}{\|x\|_{2} \|y\|_{2}}$$
 
 
