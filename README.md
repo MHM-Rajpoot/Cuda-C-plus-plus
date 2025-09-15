@@ -52,6 +52,7 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
   $$\|x - y\|_1 = \sum_i |x_i - y_i|$$  
 - **Cosine Similarity:**
   ![Cosine similarity](https://latex.codecogs.com/svg.latex?\cos(\theta)=\frac{\mathbf{a}\cdot\mathbf{b}}{\|\mathbf{a}\|\;\|\mathbf{b}\|})
+  ![Cosine similarity](https://latex.codecogs.com/svg.latex?\color{white}\cos(\theta)=\frac{\mathbf{a}\cdot\mathbf{b}}{\|\mathbf{a}\|\;\|\mathbf{b}\|})
   $$ \cos(\theta)=\frac{\mathbf{a}\cdot\mathbf{b}}{\|\mathbf{a}\|\;\|\mathbf{b}\|} $$
 
 ---
