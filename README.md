@@ -51,9 +51,7 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
 - **Manhattan Distance (L1)**:  
   $$\|x - y\|_1 = \sum_i |x_i - y_i|$$  
 - **Cosine Similarity:**
-$$
-\cos(\theta) = \frac{\mathbf{a}\cdot\mathbf{b}}{\|\mathbf{a}\|\;\|\mathbf{b}\|}
-$$
+  ![Cosine similarity](https://latex.codecogs.com/svg.latex?\cos(\theta)=\frac{\mathbf{a}\cdot\mathbf{b}}{\|\mathbf{a}\|\;\|\mathbf{b}\|})
 
 ---
 
