@@ -119,5 +119,6 @@ A comprehensive reference for core linear algebra concepts used in Artificial In
 
 ### References
 
-- Book: **Discrete Mathematics and Its Applications (7th Edition)** – [`./books/Discrete_Mathematics_and_Its_Applications_(7th_Edition).pdf`](./books/Discrete_Mathematics_and_Its_Applications_(7th_Edition).pdf)
-- Video: **A Deep Dive into the Latest HPC Software** - [](https://www.nvidia.com/en-us/on-demand/session/gtc24-s61203/?playlistId=playList-f84e9eab-3902-4824-a54a-1db4b0d943d7)
+- Book: **[Discrete Mathematics and Its Applications (7th Edition)]**(./books/Discrete_Mathematics_and_Its_Applications_(7th_Edition).pdf)
+- Video: **[A Deep Dive into the Latest HPC Software]**(https://www.nvidia.com/en-us/on-demand/session/gtc24-s61203/?playlistId=playList-f84e9eab-3902-4824-a54a-1db4b0d943d7)
+- Video: **[Deep Dive into Math Libraries]**(https://www.nvidia.com/en-us/on-demand/session/gtc24-s62162/?playlistId=playList-f84e9eab-3902-4824-a54a-1db4b0d943d7)
